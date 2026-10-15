@@ -1,12 +1,12 @@
-stinky: 
-loud: 
-potato pancakes:
-50:
-santas:
-tired: 
-Abe Lincoln:
-bashing:
-round:
-cube:
-super stinky:
-textbook:
+:smelly
+:loud
+:potato pancakes
+:50
+:santas
+:tired 
+:Abe Lincoln
+:bashing
+:round
+:cube
+:super stinky
+:textbook
